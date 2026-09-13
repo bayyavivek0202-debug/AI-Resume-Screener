@@ -1,0 +1,12 @@
+AI/ML Intern
+
+We are looking for a student/fresher interested in Artificial Intelligence and Machine Learning.
+
+Required skills:
+Python, SQL, Machine Learning, Pandas, NumPy, Scikit-learn, Data Analytics.
+
+Preferred skills:
+Generative AI, NLP, Git, GitHub, Streamlit.
+
+Education:
+B.Tech/B.E. or equivalent in Computer Science, AI/ML, Data Science, or a related field.
